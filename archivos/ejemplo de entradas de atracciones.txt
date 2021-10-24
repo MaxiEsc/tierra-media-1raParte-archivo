@@ -1,0 +1,2 @@
+ejemplo de txt atracciones
+nombre/cantidadTiempo/precio/cupo

@@ -1,0 +1,15 @@
+MontañaRusa,3,4,5
+CiudadEncantada,4,6,7
+SillaMecanica,3,5,2
+CasaFantasma,3,6,8
+PaseoMonte,3,5,6
+CerroRojo,6,7,3
+CasaMisterio,3,5,6
+AutosChocadores,5,6,7
+PaseoSilla,5,3,2
+CiudadTecnologica,5,7,8
+SillaSalud,4,6,7
+Autos,6,3,1
+MarBote,7,9,3
+Azul,4,5,6
+SillaVerde,6,7,8

@@ -1,0 +1,9 @@
+comboxl,AxB,2,MontañaRusa,CiudadEncantada,1,SillaMecanica
+combox2,porcentual,0.18,3,SillaMecanica,MontañaRusa,CasaFantasma
+combox3,absoluto,30,2,SillaMecanica,MontañaRusa
+combox5,AxB,2,MontañaRusa,CiudadEncantada,1,SillaMecanica
+combox6,porcentual,0.50,3,PaseoMonte,CerroRojo,CasaMisterio
+combox7,absoluto,30,2,AutosChocadores,PaseoSilla
+combox8,AxB,2,MontañaRusa,CiudadTecnologica,1,SillaSalud
+combox9,porcentual,0.75,3,Autos,MarBote,Azul
+comboxA,absoluto,30,2,SillaVerde,CerroRojo

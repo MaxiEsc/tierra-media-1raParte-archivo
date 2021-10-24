@@ -1,0 +1,12 @@
+Usuario [ Id Usuario=1, Nombre : Juan, Monedas : 36, Tiempo : 43.0, Atracciones Realizadas : [Autos, MarBote, Azul]] Compra -> 
+Promocion [ Nombre : combox9, Tipo : Tipo [ Tipo Atraccion : porcentual ], Cantidad de Atracciones : 3, Precio Ahorro en Monedas : 4, Duracion : 17.0, Id Promocion : 8 ]
+Usuario [ Id Usuario=1, Nombre : Juan, Monedas : 27, Tiempo : 37.0, Atracciones Realizadas : [Autos, MarBote, Azul, SillaMecanica, MontañaRusa]] Compra -> 
+Promocion [ Nombre : combox3, Tipo : Tipo [ Tipo Atraccion : absoluto ], Cantidad de Atracciones : 2, Precio Ahorro en Monedas : 9, Duracion : 6.0, Id Promocion : 3 ]
+Usuario [ Id Usuario=1, Nombre : Juan, Monedas : 18, Tiempo : 27.0, Atracciones Realizadas : [Autos, MarBote, Azul, SillaMecanica, MontañaRusa, AutosChocadores, PaseoSilla]] Compra -> 
+Promocion [ Nombre : combox7, Tipo : Tipo [ Tipo Atraccion : absoluto ], Cantidad de Atracciones : 2, Precio Ahorro en Monedas : 9, Duracion : 10.0, Id Promocion : 6 ]
+Usuario [ Id Usuario=1, Nombre : Juan, Monedas : 8, Tiempo : 17.0, Atracciones Realizadas : [Autos, MarBote, Azul, SillaMecanica, MontañaRusa, AutosChocadores, PaseoSilla, MontañaRusa, CiudadEncantada, SillaMecanica]] Compra -> 
+Promocion [ Nombre : comboxl, Tipo : Tipo [ Tipo Atraccion : AxB ], Cantidad de Atracciones : 2, Precio Ahorro en Monedas : 10, Duracion : 10.0, Id Promocion : 1 ]
+Usuario [ Id Usuario=3, Nombre : Juana, Monedas : 16, Tiempo : 33.0, Atracciones Realizadas : [Autos, MarBote, Azul]] Compra -> 
+Promocion [ Nombre : combox9, Tipo : Tipo [ Tipo Atraccion : porcentual ], Cantidad de Atracciones : 3, Precio Ahorro en Monedas : 4, Duracion : 17.0, Id Promocion : 8 ]
+Usuario [ Id Usuario=3, Nombre : Juana, Monedas : 7, Tiempo : 27.0, Atracciones Realizadas : [Autos, MarBote, Azul, SillaMecanica, MontañaRusa]] Compra -> 
+Promocion [ Nombre : combox3, Tipo : Tipo [ Tipo Atraccion : absoluto ], Cantidad de Atracciones : 2, Precio Ahorro en Monedas : 9, Duracion : 6.0, Id Promocion : 3 ]
